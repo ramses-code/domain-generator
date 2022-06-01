@@ -1,7 +1,7 @@
 function domainGenerator() {
   let pronoun = ["the"];
   let adj = ["destroyer", "suicide"];
-  let noun = ["squad", "netflownet", "audio", "audio"];
+  let noun = ["squad", "netflownet", "audio"];
   let extentsions = ["com", "net", "io"];
   let counter = 0;
 
